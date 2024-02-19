@@ -649,6 +649,33 @@ footer a:hover{
         padding: 50px;
     }
 
+    #product1{
+        padding: 30px;
+    }
+
+    #product1 .pro-container{
+        width: 100%;
+        margin: auto;
+    }
+
+    #product1 .pro{
+        width: 80%;
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+    #banner{
+        padding: 0 25px;
+        text-align: center;
+        height: 25vh ;
+    }
+
+    #newsletter{
+        font-size: 12px;
+        padding: 25px ;
+        text-align: center;
+    }    
+
     #newsletter .form{
         display: flex;
         flex-direction: column;
