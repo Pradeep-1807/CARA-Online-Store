@@ -665,9 +665,9 @@ footer a:hover{
     }
     
     #banner{
-        padding: 0 25px;
+        padding: 15px 25px;
         text-align: center;
-        height: 25vh ;
+        height: auto ;
     }
 
     #newsletter{
