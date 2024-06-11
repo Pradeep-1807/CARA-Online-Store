@@ -559,6 +559,12 @@ footer a:hover{
 
 
 @media (max-width:799px) {
+
+    #header  {
+        justify-content: space-between;
+        padding: 10px 30px;
+    }
+
     #navbar{
         display: flex;
         flex-direction: column;
@@ -613,7 +619,11 @@ footer a:hover{
 
     #hero{
         background-size: cover;
+        background-position: left 15%;
+    }
 
+    #hero button {
+        padding: 8px 40px;
     }
 
     #sm-banner{
